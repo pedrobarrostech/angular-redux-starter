@@ -1,5 +1,4 @@
 [![Circle CI](https://circleci.com/gh/rangle/angular-redux-starter.svg?style=svg)](https://circleci.com/gh/rangle/angular-redux-starter)
-
 # Angular 1/TypeScript/Webpack Starter
 
 > Rangle.io official Angular 1.x, Redux, TypeScript and Webpack starter
